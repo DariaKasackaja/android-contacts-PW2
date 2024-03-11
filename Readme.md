@@ -1,1 +1,1 @@
-// dev branch for Y.Practicum
+// Проектная работа №2
